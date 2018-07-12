@@ -25,4 +25,4 @@ module CalulateTax
   return total_bill_to_pay.round(2)
 end
 
-end
+ end
